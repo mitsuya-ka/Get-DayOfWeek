@@ -1,6 +1,6 @@
-﻿<# 
+<#
 .NOTES
  New script.
- #>
+#>
 param (
 )
