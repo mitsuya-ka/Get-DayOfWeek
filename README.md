@@ -1,1 +1,3 @@
-This function(Get-DayOfWeek) Add return value "Holiday".
+# Get-DayOfWeek
+## PowerShell Script Module
+* Add return value "Holiday/7".
