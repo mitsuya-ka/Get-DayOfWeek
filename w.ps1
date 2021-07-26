@@ -1,6 +1,0 @@
-<#
-.NOTES
- New script.
-#>
-param (
-)
